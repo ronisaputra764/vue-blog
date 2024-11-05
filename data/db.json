@@ -1,0 +1,104 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Panduan Belajar JavaScript",
+      "body": "JavaScript adalah bahasa pemrograman yang populer dan banyak digunakan untuk mengembangkan aplikasi web yang interaktif. Bahasa ini berjalan di sisi klien (browser) dan memungkinkan halaman web untuk merespons secara dinamis terhadap input pengguna. JavaScript juga memiliki ekosistem yang luas, termasuk library dan framework seperti React, Vue, dan Angular yang mempercepat pengembangan aplikasi.",
+      "tags": [
+        "JavaScript",
+        "Programming",
+        "Web Development"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Pengantar HTML dan CSS",
+      "body": "HTML dan CSS adalah fondasi dari semua halaman web. HTML memberikan struktur pada konten, sementara CSS memberikan gaya visual. HTML terdiri dari elemen-elemen seperti paragraf, heading, gambar, dan link yang membangun kerangka dasar situs web. CSS memungkinkan pengembang untuk mengatur tampilan elemen HTML dengan menentukan warna, font, layout, dan lainnya.",
+      "tags": [
+        "HTML",
+        "CSS",
+        "Frontend"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Apa itu REST API?",
+      "body": "REST API adalah cara berkomunikasi antara klien dan server dalam aplikasi web melalui protokol HTTP. REST menggunakan metode HTTP seperti GET, POST, PUT, dan DELETE untuk berinteraksi dengan sumber daya di server. Pendekatan ini membuat pengembangan aplikasi menjadi lebih modular dan memungkinkan komunikasi lintas platform.",
+      "tags": [
+        "API",
+        "REST",
+        "Backend"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Mengenal Vue.js untuk Pemula",
+      "body": "Vue.js adalah framework JavaScript yang ringan dan mudah dipelajari, ideal untuk membangun antarmuka pengguna yang dinamis. Vue memungkinkan pengembang untuk membuat komponen yang dapat digunakan kembali dan memisahkan logika dari tampilan. Selain itu, Vue memiliki komunitas yang aktif dan dokumentasi yang sangat membantu bagi pemula.",
+      "tags": [
+        "Vue.js",
+        "JavaScript",
+        "Frontend"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Optimisasi Performa Web",
+      "body": "Performa web yang optimal sangat penting untuk meningkatkan pengalaman pengguna dan meningkatkan ranking SEO. Beberapa teknik optimisasi termasuk kompresi gambar, minifikasi kode, dan penggunaan caching. Dengan optimisasi yang tepat, halaman web akan lebih cepat dimuat, meningkatkan retensi pengguna dan engagement.",
+      "tags": [
+        "SEO",
+        "Web Performance",
+        "Optimization"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Dasar-Dasar Python",
+      "body": "Python adalah bahasa pemrograman yang mudah dipelajari dan terkenal karena sintaksnya yang sederhana. Bahasa ini sering digunakan dalam berbagai bidang, seperti pengembangan web, data science, dan automasi. Python memiliki pustaka yang kaya dan komunitas yang besar, menjadikannya pilihan populer bagi pemula maupun profesional.",
+      "tags": [
+        "Python",
+        "Programming",
+        "Backend"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Pengenalan SQL untuk Database",
+      "body": "SQL adalah bahasa standar yang digunakan untuk mengelola dan mengquery data dalam database relasional. Dengan SQL, kita dapat melakukan operasi seperti SELECT, INSERT, UPDATE, dan DELETE pada data dalam tabel. Kemampuan ini sangat penting dalam pengelolaan data besar dan analisis informasi untuk berbagai aplikasi.",
+      "tags": [
+        "SQL",
+        "Database",
+        "Data Management"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Panduan Memulai dengan Git",
+      "body": "Git adalah sistem kontrol versi yang membantu pengembang melacak perubahan kode dalam proyek. Git memungkinkan kerja kolaboratif dalam tim, dengan fitur seperti branching, merging, dan commit history. Alat ini penting untuk pengembangan perangkat lunak modern, terutama dalam lingkungan kerja yang kolaboratif.",
+      "tags": [
+        "Git",
+        "Version Control",
+        "Collaboration"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Menggunakan Node.js untuk Backend",
+      "body": "Node.js memungkinkan pengembangan server-side menggunakan JavaScript, menciptakan lingkungan pengembangan yang konsisten. Node.js menawarkan performa tinggi dan kemampuan untuk menangani banyak permintaan secara bersamaan, yang ideal untuk aplikasi modern. Framework populer seperti Express dapat digunakan dengan Node.js untuk mempermudah pengembangan API dan layanan backend.",
+      "tags": [
+        "Node.js",
+        "JavaScript",
+        "Backend"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Cara Menjadi Full Stack Developer",
+      "body": "Seorang Full Stack Developer memiliki kemampuan untuk mengembangkan frontend dan backend aplikasi secara menyeluruh. Untuk mencapai ini, seorang pengembang harus menguasai HTML, CSS, dan JavaScript untuk frontend, serta bahasa backend seperti Node.js atau Python. Selain itu, pemahaman tentang database, API, dan deployment sangat penting dalam pekerjaan full stack.",
+      "tags": [
+        "Full Stack",
+        "Web Development",
+        "Career"
+      ]
+    }
+  ]
+}
